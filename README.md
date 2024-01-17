@@ -15,9 +15,7 @@ Ya jika repo ini banyak yang stars saya akan full open source silahkan tap stars
 
 DEMO + Cara Pakai
 
- [![thumbnail_bot_ai](https://img.youtube.com/vi/Y7rCZao9Loc/maxresdefault.jpg)](https://www.youtube.com/watch?v=Y7rCZao9Loc)
+ [![thumbnail_bot_ai](https://img.youtube.com/vi/f4xJi27GNNk/maxresdefault.jpg)](https://www.youtube.com/watch?v=f4xJi27GNNk)
 
 ---
-## Screenshot
-
-![2024-01-12 21:45:53 778650](https://github.com/azkadev/telegram_bot_gratis/assets/82513502/6fcee061-bac5-43ed-85e9-0874de748b32)
+## Screenshot 
