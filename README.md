@@ -5,7 +5,11 @@ Tenang aja aku ada yang gratis buat kamu
 
 Btw applikasi ini hanya work di android
 
-Silahkan download disini [DOWNLOAD APK](https://github.com/azkadev/telegram_bot_gratis/releases/download/latest/app-release.apk)
+Silahkan download disini
+
+## Tidak di lanjutkan
+
+Silahkan Ganti ini: [products general bot app](https://github.com/generalcorporation/products_general_bot_app)
 
 ## Open Source ? 
 
